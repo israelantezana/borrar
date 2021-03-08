@@ -7,8 +7,3 @@ Peque�o proyecto de ejemplo para el desarrollo del kata FizzBuzz usando TDD y 
 - Maven
 - Git, Github
 - Travis
-
--Anadido por dev1 en rama feature1
--2da linea anadida solo para probar rama feature1
--3ra linea anadida por dev3 para probar rama feature1
--4ta linea anadida por dev3 para probar feature branch1
