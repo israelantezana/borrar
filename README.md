@@ -3,7 +3,9 @@
 FizzBuzz
 ========
 
-Peque–o proyecto de ejemplo para el desarrollo del kata FizzBuzz usando TDD y SCM con las siguientes herramientas:
+Pequeï¿½o proyecto de ejemplo para el desarrollo del kata FizzBuzz usando TDD y SCM con las siguientes herramientas:
 - Maven
 - Git, Github
 - Travis
+
+-Anadido por dev1 en rama feature1
